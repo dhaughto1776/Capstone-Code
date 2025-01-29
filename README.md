@@ -1,4 +1,4 @@
-# Burn Scar Geospatial Foundation Model
+# 4th Year Capstone Research Project on type Ia Supernova
 
 ## Description
 This projects purpose was to analyse the light curve and spectral properties of 2 subtypes of type Ia Supernova, 03fg and 02es, in an attempt to link their elusive and poorly understood explosion mechanisms.
