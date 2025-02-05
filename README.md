@@ -23,14 +23,15 @@ ZTF data: https://github.com/MickaelRigault/ztfidr
 
 All of this is open source.
 
-### Use
+## Use
 As stated, by downloading the .ipynb file and uploading it to Colab, it can be used. However, data from ZTF as a zip file needs to be downloaded from the above page.
-Furthermore, for using Piscola, ATLAS data is needed. By taking the ZTF name of the SN of interest, its RA (ight Ascension), and its Declination, and going to:
+Furthermore, for using Piscola, ATLAS data is needed. By taking the ZTF name of the SN of interest, its RA (right Ascension), and its Declination, and going to:
 
 https://fallingstar-data.com/forcedphot/
 
 you can get this data, and use the 'File Maker code'
-Some points to note about using this specific file:
+
+## Some points to note about using this specific file:
 
 Sometimes an error message will appear pertaining to u.deg units. By simply re-running the 'imports' tab, this will be fixed
  
