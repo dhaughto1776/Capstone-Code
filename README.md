@@ -10,7 +10,7 @@ processes, the light curves were analysed:
 2) To then find the Δm₁₅, or luminosity decline rate, how much the luminosity declines after 15 days
 3) To find the pEW, or pesudo equivalent width, of Carbon II at 6580 Å
 4) To then investigate a potential relationship between these 2 parameters through plotting, to see if there is a link in their explosion mechanisms
-5) 
+   
 ## Installation
 This project was done on Jupyter Notebooks in Google Colab, and as such, simply downloading the .ipynb file and uploading to Google colab will allow for full use of the code shown. Further 
 information and the source code can be found on the ZTF, George and Piscola pages:
